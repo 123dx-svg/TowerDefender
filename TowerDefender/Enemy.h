@@ -149,7 +149,7 @@ public:
 		refresh_position_target();
 	}
 
-	void make_Invalid()
+	void Make_Invalid()
 	{
 		is_valid = false;
 	}
