@@ -139,10 +139,12 @@
     <ClInclude Include="Animation.h" />
     <ClInclude Include="ConfigManager.h" />
     <ClInclude Include="Enemy.h" />
+    <ClInclude Include="EnemyManager.h" />
     <ClInclude Include="EnemyType.h" />
     <ClInclude Include="GameManager.h" />
     <ClInclude Include="GoblinEnemy.h" />
     <ClInclude Include="GoblinPriestEnemy.h" />
+    <ClInclude Include="HomeManager.h" />
     <ClInclude Include="KingSlimEnemy.h" />
     <ClInclude Include="Manager.h" />
     <ClInclude Include="Map.h" />
